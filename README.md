@@ -23,8 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
+| [1668-maximum-repeating-substring](https://github.com/Aditya-lab442/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aditya-lab442/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Aditya-lab442/Leetcode/tree/master/1668-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Aditya-lab442/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
