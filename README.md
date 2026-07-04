@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Aditya-lab442/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-lab442/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/Aditya-lab442/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +76,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Aditya-lab442/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aditya-lab442/Leetcode/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
