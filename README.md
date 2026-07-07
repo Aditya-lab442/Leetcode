@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aditya-lab442/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Aditya-lab442/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aditya-lab442/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Aditya-lab442/Leetcode/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya-lab442/Leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Aditya-lab442/Leetcode/tree/master/0326-power-of-three) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
