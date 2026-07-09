@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0015-3sum) |
+| [0040-combination-sum-ii](https://github.com/Aditya-lab442/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aditya-lab442/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
 | [0216-combination-sum-iii](https://github.com/Aditya-lab442/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Aditya-lab442/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Aditya-lab442/Leetcode/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/Aditya-lab442/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Aditya-lab442/Leetcode/tree/master/0216-combination-sum-iii) |
