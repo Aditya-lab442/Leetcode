@@ -120,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aditya-lab442/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Aditya-lab442/Leetcode/tree/master/0326-power-of-three) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Aditya-lab442/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
