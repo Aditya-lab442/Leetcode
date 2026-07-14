@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-lab442/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/Aditya-lab442/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-lab442/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-lab442/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Aditya-lab442/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0771-jewels-and-stones](https://github.com/Aditya-lab442/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Aditya-lab442/Leetcode/tree/master/1291-sequential-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-lab442/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
