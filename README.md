@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-lab442/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Aditya-lab442/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Aditya-lab442/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Aditya-lab442/Leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya-lab442/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Aditya-lab442/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Aditya-lab442/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -152,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditya-lab442/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
