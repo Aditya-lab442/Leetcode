@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aditya-lab442/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Aditya-lab442/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-lab442/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0198-house-robber](https://github.com/Aditya-lab442/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Aditya-lab442/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aditya-lab442/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Aditya-lab442/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Aditya-lab442/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Aditya-lab442/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Aditya-lab442/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
