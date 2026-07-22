@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-lab442/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Aditya-lab442/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Aditya-lab442/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/Aditya-lab442/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-lab442/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aditya-lab442/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-lab442/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
