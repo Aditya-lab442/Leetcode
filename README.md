@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aditya-lab442/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Aditya-lab442/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-lab442/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-lab442/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Aditya-lab442/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Aditya-lab442/Leetcode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aditya-lab442/Leetcode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-lab442/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
