@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-lab442/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-lab442/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/Aditya-lab442/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Aditya-lab442/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aditya-lab442/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-lab442/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Aditya-lab442/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Matrix
 |  |
 | ------- |
