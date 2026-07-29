@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aditya-lab442/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Aditya-lab442/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0509-fibonacci-number) |
+| [1492-the-kth-factor-of-n](https://github.com/Aditya-lab442/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Aditya-lab442/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
