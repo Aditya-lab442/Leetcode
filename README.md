@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Aditya-lab442/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1668-maximum-repeating-substring](https://github.com/Aditya-lab442/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-lab442/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aditya-lab442/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Aditya-lab442/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Aditya-lab442/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Aditya-lab442/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
