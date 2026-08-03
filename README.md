@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Aditya-lab442/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-lab442/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Aditya-lab442/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-lab442/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Aditya-lab442/Leetcode/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-lab442/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Aditya-lab442/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Aditya-lab442/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-lab442/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-lab442/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Aditya-lab442/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Aditya-lab442/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aditya-lab442/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-lab442/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Memoization
 |  |
