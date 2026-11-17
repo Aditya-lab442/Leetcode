@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Aditya-lab442/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya-lab442/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya-lab442/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-lab442/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aditya-lab442/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Aditya-lab442/Leetcode/tree/master/0125-valid-palindrome) |
