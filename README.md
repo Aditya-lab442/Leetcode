@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aditya-lab442/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Aditya-lab442/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya-lab442/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Aditya-lab442/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-lab442/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-lab442/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/Aditya-lab442/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aditya-lab442/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Aditya-lab442/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1668-maximum-repeating-substring](https://github.com/Aditya-lab442/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Aditya-lab442/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-lab442/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-lab442/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-lab442/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
