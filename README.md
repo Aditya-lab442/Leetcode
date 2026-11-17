@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aditya-lab442/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-lab442/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Aditya-lab442/Leetcode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Aditya-lab442/Leetcode/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-lab442/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aditya-lab442/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-lab442/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Memoization
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Aditya-lab442/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aditya-lab442/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-lab442/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-lab442/Leetcode/tree/master/2390-removing-stars-from-a-string) |
